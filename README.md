@@ -1,4 +1,4 @@
-# Clash_Chinese_Patch
+# more
 
 [![](https://img.shields.io/badge/Telegram-公告板-blue)](https://t.me/ClashR_for_Windows_Channel)
 [![](https://img.shields.io/badge/Telegram-交流群-purple)](https://t.me/ClashR_For_Windows)
